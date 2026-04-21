@@ -1,0 +1,30 @@
+.btn1{
+    background-color: aqua;
+    color: aquamarine;
+}
+.btn2{
+    background-color: red;
+}
+.btn3{
+    background-color: blueviolet;
+}
+#head{
+    text-transform: uppercase;
+}
+#landingimage{
+    height: 50px;
+    width: 75px;
+}
+#btn{
+    background-color: blue;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: skyblue;
+}
+body{
+    text-align: center;
+}
+
